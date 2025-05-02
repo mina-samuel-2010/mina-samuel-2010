@@ -56,12 +56,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/menasamuel2010/menasamuel2010/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/menasamuel2010/mina-samuel-2010/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/menasamuel2010/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/mina-samuel-2010/count.svg?"  />
 </div>
 
 ###
